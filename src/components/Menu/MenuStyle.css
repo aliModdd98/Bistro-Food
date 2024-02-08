@@ -1,0 +1,12 @@
+
+.box{
+    width: 23.22%;
+}
+/* @media (max-width: 480px) {
+   .menuCards{
+    flex-direction: column;
+    width: 80%;
+    justify-content: center;
+    align-items: center;
+   }
+  } */
